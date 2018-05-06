@@ -1,6 +1,9 @@
 # tinyMegaD
 Tiny client for Mega.nz downloads
-
-<a href="http://youtu.be/Z8dgZwGwL60">1st presentation video (english)</a>
 <br/>
-<a href="http://youtu.be/Z8dgZwGwL60">Primer vídeo de presentación (spanish)</a>
+<br/>
+Source code available soon.
+<br/>
+<a href="https://youtu.be/MS-6KTfx5Q4">1st presentation video (english)</a>
+<br/>
+<a href="https://youtu.be/qWQBW4K1T9s">Primer vídeo de presentación (spanish)</a>
